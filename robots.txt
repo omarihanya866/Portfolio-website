@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /Portfolio-website
 Disallow: /index.html
